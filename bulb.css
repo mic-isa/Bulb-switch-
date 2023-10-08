@@ -1,0 +1,18 @@
+body {
+    height :100vh;
+    display : flex ;
+    flex-direction : column ;
+    justify-content : center ;
+    align-items : center ;
+}
+
+#but-on,#but-off{
+    font-size:1em;
+    width :7em;
+    margin-top: 2em;
+    margin-right: .2em;
+    padding :.2em;
+}
+#bulb{
+    Max-width :80%;
+}
